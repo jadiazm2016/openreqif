@@ -1,0 +1,3 @@
+# Module openreqif
+# RPC service class, partial path of RPC policy file
+de.witchcafe.openreqif.client.GreetingService, 7E9142131A6E593946EEFFC2B3795342.gwt.rpc

@@ -1,0 +1,2 @@
+serviceClass: de.witchcafe.openreqif.client.GreetingService
+path: 7E9142131A6E593946EEFFC2B3795342.gwt.rpc
