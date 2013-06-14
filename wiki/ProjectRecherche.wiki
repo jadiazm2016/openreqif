@@ -1,13 +1,8 @@
-#summary One-sentence summary of this page.
+#what i found :-) usually in the web, and am to lazy to google for
 
-= Introduction =
+= ReqIF =
 
-Add your content here.
+  * http://www.omg.org/spec/ReqIF/
+  * http://www.itwissen.info/definition/lexikon/ReqIF-requirements-interchange-format.html
+  * http://jaxenter.de/news/Anforderungsmanagement-mit-Eclipse-Requirements-Modeling-Framework
 
-
-= Details =
-
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
