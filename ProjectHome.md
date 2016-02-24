@@ -1,0 +1,1 @@
+I just want to start a system for collaborative editing of Requirements based on ReqIF.
